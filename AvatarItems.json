@@ -10345,6 +10345,14 @@
   },
   {
     "AvatarItemType": 0,
+    "AvatarItemDesc": "39278302-b52a-48a8-a566-ed756a5fa1a9,Em__GeYWaU2pAEqWYCBKpA,DG83ruIdI0Wu-GSRg4icYQ,",
+    "PlatformMask": -1,
+    "FriendlyName": "Lacrosse Shirt (Gold)",
+    "Tooltip": "",
+    "Rarity": 10
+  },
+  {
+    "AvatarItemType": 0,
     "AvatarItemDesc": "24d94673-f394-42e6-a3c8-276f8b8aa722,,,",
     "PlatformMask": -1,
     "FriendlyName": "Laser Tag Sensors (Pink)",
