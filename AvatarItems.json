@@ -2585,6 +2585,14 @@
   },
   {
     "AvatarItemType": 0,
+    "AvatarItemDesc": "79b90274-6eec-4664-acfb-4a123334661e,Z10TTlOeW0mumezbqXKGzA,Ht0WRvpguUaLZ1tigCzCMA,",
+    "PlatformMask": -1,
+    "FriendlyName": "Pig Tails Hair (Gold)",
+    "Tooltip": null,
+    "Rarity": 0
+  },
+  {
+    "AvatarItemType": 0,
     "AvatarItemDesc": "45eaab67-19c2-4601-8f80-3565a4dceba4,,,",
     "PlatformMask": -1,
     "FriendlyName": "Pompadour Hair",
