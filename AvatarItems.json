@@ -7345,6 +7345,14 @@
   },
   {
     "AvatarItemType": 0,
+    "AvatarItemDesc": "37668d3d-c9f4-4bd6-81d4-a4f64ba2d61b,Z10TTlOeW0mumezbqXKGzA,Ht0WRvpguUaLZ1tigCzCMA,",
+    "PlatformMask": -1,
+    "FriendlyName": "Bee Wings (Gold)",
+    "Tooltip": "",
+    "Rarity": 50
+  },
+  {
+    "AvatarItemType": 0,
     "AvatarItemDesc": "84574356-98ec-415f-8668-82cb52016bd3,,,",
     "PlatformMask": -1,
     "FriendlyName": "Floatie (Zebra)",
@@ -15683,6 +15691,19 @@
     "AvatarItemType": 0,
     "PlatformMask": -1,
     "FriendlyName": "Space Visor (Creators Contest 2)",
+    "Tooltip": "",
+    "Rarity": 50,
+    "TagList": null,
+    "AvatarItemId": 783,
+    "IsBaseAvatarItem": false,
+    "CreatedAt": "2018-09-07T22:22:25.447Z",
+    "ThumbnailImage": "9cfmiay0o7q5lwqa8wx2pm6ug.png"
+  },
+  {
+    "AvatarItemDesc": "KNZ1DvCLC0WHyH4opYAXtw,Z10TTlOeW0mumezbqXKGzA,Ht0WRvpguUaLZ1tigCzCMA,",
+    "AvatarItemType": 0,
+    "PlatformMask": -1,
+    "FriendlyName": "Space Visor (Gold)",
     "Tooltip": "",
     "Rarity": 50,
     "TagList": null,
