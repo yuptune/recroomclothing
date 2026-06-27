@@ -10345,7 +10345,7 @@
   },
   {
     "AvatarItemType": 0,
-    "AvatarItemDesc": "39278302-b52a-48a8-a566-ed756a5fa1a9,bd4a84e2-b67a-4269-a26a-17fb23ddb09e,DG83ruIdI0Wu-GSRg4icYQ,",
+    "AvatarItemDesc": "39278302-b52a-48a8-a566-ed756a5fa1a9,Em__GeYWaU2pAEqWYCBKpA,DG83ruIdI0Wu-GSRg4icYQ,",
     "PlatformMask": -1,
     "FriendlyName": "Lacrosse Shirt (Gold)",
     "Tooltip": "",
@@ -24281,5 +24281,13 @@
     "FriendlyName": "Countess",
     "Tooltip": "",
     "Rarity": 0
+  },
+  {
+    "AvatarItemType": 0,
+    "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,5864d23d-1a86-40a6-a52c-46ee670e4508,2ee3944d-e9fb-4959-973e-570a7fc6cc57,167ba0d4-4fac-4143-b5ae-1dbd8e02dc76",
+    "PlatformMask": -1,
+    "FriendlyName": "Class of 2016 Hat Glitch",
+    "Tooltip": "Forces the Class of 2016 Shirt mesh to anchor to the head bone.",
+    "Rarity": 50
   }
 ]
